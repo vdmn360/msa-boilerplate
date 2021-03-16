@@ -1,0 +1,7 @@
+convertdate
+azure-storage-blob
+pyodbc
+sqlalchemy
+pandas
+numpy
+fbprophet
